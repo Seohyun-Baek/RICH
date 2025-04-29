@@ -4,7 +4,7 @@ The dataset used in this project is available upon request for academic or resea
 
 If you would like to access the dataset, please contact:
 
-📧 b_seohy@etri.re.kr
+📧 **[b_seohy@etri.re.kr]**
 
 In your request, briefly state your affiliation and intended use.
 
